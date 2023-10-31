@@ -7,7 +7,7 @@
     <a href="https://www.youtube.com/@securityjoes3114/videos">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="https://twitter.com/charleslomboni">
+    <a href="https://twitter.com/moval0x1">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
@@ -19,9 +19,9 @@
 
 <div id="body" align="center">
 
-![Charles Lomboni's GitHub stats](https://github-readme-stats.vercel.app/api?username=charleslomboni&show_icons=true&theme=radical&count_private=true)
+![Charles Lomboni's GitHub stats](https://github-readme-stats.vercel.app/api?username=moval0x1&show_icons=true&theme=radical&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charleslomboni&theme=radical&count_private=true)](https://github.com/charleslomboni/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moval0x1&theme=radical&count_private=true)](https://github.com/moval0x1/github-readme-stats)
 </div>
 
 <!---
